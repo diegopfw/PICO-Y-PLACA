@@ -1,4 +1,4 @@
-# PICO-Y-PLACA-CHALLENGE
+# PICO-Y-PLACA
 
 This project is about Pico y Placa predictor, but it is specially focus in Quito. The project has a generic controller. That is why if you want to implement in other city with their own rules you can do it.
 
